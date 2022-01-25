@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 
 # README
 
+=======
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version: 3.0.0
+
+>>>>>>> dfa8c506ba1108f534763728148ec8d807d49983
 # Facebook-clone
 this is the second project for the ruby on rails introduction course. 
 ----------------------------------------------------------------------
