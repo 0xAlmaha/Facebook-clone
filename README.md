@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -24,6 +25,8 @@ Things you may want to cover:
 
 * ...
 =======
+=======
+>>>>>>> b24a5c96422bb61b2071e1733e9380e490869923
 # Facebook-clone
 this is the second project for the ruby on rails introduction course. 
 ----------------------------------------------------------------------
@@ -114,4 +117,7 @@ this is the second project for the ruby on rails introduction course.
 
 
 
+<<<<<<< HEAD
+>>>>>>> b24a5c96422bb61b2071e1733e9380e490869923
+=======
 >>>>>>> b24a5c96422bb61b2071e1733e9380e490869923
