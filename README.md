@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -7,26 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 3.0.0
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-=======
->>>>>>> b24a5c96422bb61b2071e1733e9380e490869923
 # Facebook-clone
 this is the second project for the ruby on rails introduction course. 
 ----------------------------------------------------------------------
@@ -100,24 +80,3 @@ this is the second project for the ruby on rails introduction course.
 <img width="968" alt="Screen Shot 2022-01-25 at 5 08 12 AM" src="https://user-images.githubusercontent.com/97455971/150899522-e6d46591-c981-434f-8e26-8d13ca443f7c.png">
 
 ----------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
->>>>>>> b24a5c96422bb61b2071e1733e9380e490869923
-=======
->>>>>>> b24a5c96422bb61b2071e1733e9380e490869923
